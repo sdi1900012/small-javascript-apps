@@ -1,2 +1,2 @@
 # small-javascript-apps
-some small web apps using html,css, javascript
+some small web apps that i implemented during javascript Course!
